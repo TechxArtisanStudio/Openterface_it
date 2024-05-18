@@ -194,8 +194,8 @@ nav:
           - Test di base 💬: basic-testing.md
   - Comunità:
       - Benvenuti: community.md
-  - Articoli:
-    - blog/index.md
+  # - Articoli:
+  #   - blog/index.md
   - Informazioni:
       - Contatti: contact.md
       - Politiche:
