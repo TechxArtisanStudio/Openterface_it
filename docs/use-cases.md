@@ -1,36 +1,24 @@
-# ユースケース
-* ***効率的なサーバー管理***: サーバールームの保守と運用に携わるIT専門家に最適で、私たちのミニKVMは、自分のラップトップから複数のサーバーを単一のワークステーションとして制御できるようにし、運用効率を向上させます。
+# Casi d'Uso
+## ***Gestione del Server Semplificata***
+Ideale per i professionisti IT coinvolti nella manutenzione e nell'operazione delle sale server, il nostro Mini-KVM consente il controllo di più server dal proprio laptop come una singola workstation, migliorando l'efficienza operativa.
 ![use-case-demo-pc-bios-1](/images/product/use-case-demo-pc-bios-1.jpg)
 
-* ***テクノロジーエンスージアストのためのシンプルなセットアップ***: この製品は、Raspberry PiやJetson Nanoのようなデバイスを使用するマイクロコンピューター愛好家のセットアッププロセスを容易にします。追加の周辺機器を必要とせず、メインコンピューターから直接制御できます。
+## ***Setup Semplificato per Appassionati di Tecnologia***
+Questo prodotto facilita il processo di setup per gli appassionati di micro-computer che lavorano con dispositivi come Raspberry Pi e Jetson Nano. Permette il controllo diretto da un computer principale, eliminando la necessità di periferiche aggiuntive.
 
 ![use-case-demo-respberry-pi](/images/product/use-case-demo-respberry-pi.jpg)
 
-* ***多様なデバイスの統一制御***: 個人用と仕事用のコンピューターの間でジャグリングをする専門家や、ATM、VLT、キオスクなどのデバイスを管理する人々にとって完璧です。OpenterfaceミニKVMは、複数のデバイスを簡単に管理できる統一インターフェイスを提供します。
+## ***Controllo Unificato per Dispositivi Diversi***
+Perfetto per professionisti che devono destreggiarsi tra computer personali e di lavoro, o che gestiscono dispositivi come bancomat, VLT e chioschi. L'Openterface Mini-KVM offre un'interfaccia unificata che semplifica la gestione di più dispositivi.
 
 ![use-case-demo-macmini2009](/images/product/use-case-demo-macmini2009-3.jpg)
 
-* ***セキュアな操作で敏感なタスクを管理***: ネットワーク分離が必要なタスク、例えば暗号資産の管理を行う専門家にとって、この製品は安全なローカル操作を維持するために不可欠です。
+## ***Operazioni Sicure per Compiti Sensibili***
+I professionisti che gestiscono compiti che richiedono la segregazione della rete, come la gestione di beni criptovalutari, troveranno questo prodotto indispensabile per mantenere operazioni sicure e locali.
 
 ![use-case-demo-industrial-pc](images/product/use-case-demo-industrial-pc.jpg)
 
-* ***複合ワークフローの効率的な統合***: 個人用コンピューターと仕事用コンピューターの間で頻繁に切り替えるユーザーや、エッジコンピューティングデバイスを管理するユーザーは、OpenterfaceミニKVMが提供する効率的なワークフロー統合の恩恵を受けるでしょう。
+## ***Integrazione Efficiente per Flussi di Lavoro Misti***
+Gli utenti che passano frequentemente tra computer personali e di lavoro, o quelli che gestiscono dispositivi di edge computing, beneficeranno dell'integrazione del flusso di lavoro semplificata che l'Openterface Mini-KVM fornisce.
 
 ![use-case-demo-macbookpro2010](/images/product/use-case-demo-macbookpro2010.jpg)
-
-<section class="dialogue-section-white" id="dialogues-section">
-    <div class="container">
-        <div class="callout-button-container">
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>もっと読む 📖</p>
-                <a href="/faq" class="md-button md-button--primary" id="join-waitlist-button">FAQs</a>
-            </div>
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>話そう！💬</p>
-                <a href="https://www.reddit.com/r/Openterface_miniKVM/" class="md-button md-button--primary" id="join-waitlist-button">subreddit</a>
-            </div>
-        </div>
-    </div>
-</section>

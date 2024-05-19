@@ -1,4 +1,4 @@
-# ロードマップ
+# Roadmap
 
-作業中
-近日公開。
+Lavoro in corso
+In arrivo.

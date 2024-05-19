@@ -1,38 +1,21 @@
-# 箱の中身
+# Cosa C'è Nella Scatola
 
-あなたのニーズに合わせて設計された2つの購入オプションを探索してください。基本的なものを探している場合でも、ツールの完全なセットを探している場合でも対応します。
+Esplora le nostre due opzioni di acquisto progettate per soddisfare le tue esigenze, che tu stia cercando l'essenziale o un set completo di strumenti.
 
-## パッケージ1：ベーシックパック
+## Pacchetto 1: Pacchetto Base
 
-![basic-pack](/images/product/product-option-1-basic.jpg)
+![pacchetto-base](/images/product/product-option-1-basic.jpg)
 
-1. コア製品：Openterface Mini-KVM
-2. クイックスタートガイド
+1. Prodotto Principale: Openterface Mini-KVM
+2. Guida Rapida
 
-## パッケージ2：ツールキットパック
+## Pacchetto 2: Pacchetto Strumenti
 
-![toolkit-pack](/images/product/product-option-2-toolkit.jpg)
+![pacchetto-strumenti](/images/product/product-option-2-toolkit.jpg)
 
-1. コア製品：Openterface Mini-KVM
-2. クイックスタートガイド
-3. HDMI オス-オスケーブル（30cm）
-4. Type-C オスからUSB-A オスケーブル（30cm）および USB-A オスから Type-C オスアダプター
-5. Type-C オス-オスケーブル（150cm）
-6. ツールキットバッグ（長さ14cm x 幅10cm x 高さ3.8cm）
-
-<section class="dialogue-section-white" id="dialogues-section">
-    <div class="container">
-        <div class="callout-button-container">
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>今すぐ注文！❤️</p>
-                <a href="https://www.crowdsupply.com/techxartisan/openterface-mini-kvm" class="md-button md-button--primary" id="join-waitlist-button">Crowd Supply へ行く</a>
-            </div>
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>もっと読む 📖</p>
-                <a href="/faq" class="md-button md-button--primary" id="join-waitlist-button">FAQs</a>
-            </div>
-        </div>
-    </div>
-</section>
+1. Prodotto Principale: Openterface Mini-KVM
+2. Guida Rapida
+3. Cavo HDMI Maschio-Maschio (30cm)
+4. Cavo Type-C Maschio a USB-A Maschio (30cm) con Adattatore USB-A Femmina a USB-C Maschio
+5. Cavo Type-C Maschio-Maschio (150cm)
+6. Borsa degli Strumenti (14cm L x 10cm W x 3.8cm H)
