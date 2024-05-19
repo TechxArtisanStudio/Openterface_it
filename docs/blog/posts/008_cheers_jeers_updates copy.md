@@ -9,29 +9,29 @@ tags:
   - Comunità
 ---
 
-# Openterface Mini-KVM Buzz: Cheers, Jeers, & Updates!
+# Openterface Mini-KVM Buzz: Applausi, Critiche e Aggiornamenti!
 
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="479"><a href="https://www.reddit.com/r/Openterface_miniKVM/comments/1ak4kes/minikvm_openterface_buzz_cheers_jeers_updates/">Openterface mini-KVM Buzz: Cheers, Jeers, &amp; Updates!</a><br> by<a href="https://www.reddit.com/user/youyoubilly/">u/youyoubilly</a> in<a href="https://www.reddit.com/r/Openterface_miniKVM/">Openterface_miniKVM</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+Ciao a tutti! 🎉 Felice di avervi qui!
+
+Indovinate un po'? Siamo immersi nella creazione di qualcosa di davvero interessante – il nostro Openterface mini-KVM! Questo gadget ingegnoso è un KVM-over-USB portatile che vi permette di controllare un altro computer direttamente dal vostro laptop. Fantastico, vero? 🚀
+
+Ne ho parlato nella comunità [homelab](https://www.reddit.com/r/homelab/) con questi due post: [questo](https://www.reddit.com/r/homelab/comments/1acdfwt/crafting_a_minikvm_prototype_in_a_black_aluminium/?utm_source=share&utm_medium=web2x&context=3) e [quest'altro](https://www.reddit.com/r/homelab/comments/1ahwrl4/trying_out_my_minikvm_on_ubuntu_any_feedback/?utm_source=share&utm_medium=web2x&context=3). Ho anche chiesto opinioni sul miglioramento delle etichette nella comunità [design](https://www.reddit.com/r/Design/comments/1aht6m3/new_look_for_our_minikvm_what_do_you_think/?utm_source=share&utm_medium=web2x&context=3).
+
+Ha davvero suscitato un bel po' di discussioni! 🌪️ Alcune persone si sono chieste cosa facesse esattamente questo piccolo KVM-over-USB, mentre altre hanno pensato che fosse solo un altro pezzo di tecnologia inutile. Ma poi c'erano quelli che l'hanno capito al volo e ci hanno sommerso di amore e feedback davvero perspicaci. 🥰
+
+Sono super grato per ogni chiacchierata - buona, cattiva e tutto il resto. È stato incredibilmente prezioso e mi ha dato molto su cui riflettere per migliorare e perfezionare i nostri piani. Significa davvero tanto ed è incoraggiante! 🌟
+
+🤔 In base alle vostre domande e feedback, abbiamo migliorato la nostra [pagina FAQ](https://openterface.com/faq/) sul sito del prodotto. So che il nostro prodotto potrebbe essere un po' difficile da capire per chi non ha esperienza con KVM, VNC, VLC e simili. Farò altri video dimostrativi, che saranno molto più semplici per presentare le capacità del nostro mini-KVM per determinati casi d'uso.
+
+Bene, dateci un'occhiata e fateci sapere cosa ne pensate. Se qualcosa non va o se avete voglia di parlarne, scrivetemi! Le vostre intuizioni sono preziose. ✨
+
+Grazie mille per il vostro supporto, appassionati di tecnologia! Che siate critici o sostenitori, siete voi che ci fate andare avanti. Continuiamo la conversazione! 💌
+
+Alla prossima! 🌈
 
 <!-- more -->
 
-Hey folks! 🎉 Glad to have you here!
-
-Guess what? We're deep in the trenches crafting something pretty cool – our Openterface mini-KVM! This nifty gadget is a portable KVM-over-USB that lets you control another computer right from your laptop. Neat, huh? 🚀
-
-I've been chatting about it over in the [homelab](https://www.reddit.com/r/homelab/) community with these two posts: [this one](https://www.reddit.com/r/homelab/comments/1acdfwt/crafting_a_minikvm_prototype_in_a_black_aluminium/?utm_source=share&utm_medium=web2x&context=3) and [here](https://www.reddit.com/r/homelab/comments/1ahwrl4/trying_out_my_minikvm_on_ubuntu_any_feedback/?utm_source=share&utm_medium=web2x&context=3). I also asked for opinion on improving its labels in [design](https://www.reddit.com/r/Design/comments/1aht6m3/new_look_for_our_minikvm_what_do_you_think/?utm_source=share&utm_medium=web2x&context=3) community.
-
-Boy, did it stir up a storm! 🌪️ Some folks were scratching their heads, wondering what on earth this little KVM-over-USB does, while others thought it might just be another piece of tech clutter. But then, there were those who got it in a heartbeat and were all in, showering us with love and some really insightful feedback. 🥰
-
-I'm super grateful for every bit of chatter - good, bad, and everything in between. It's been incredibly valuable and has given me loads to ponder on improving and refining our plans. It truly means a lot and encouraging! 🌟
-
-🤔 Based on your questions and feedback, we've spruced up our [FAQ page](https://openterface.com/faq/) on the product website. I know that our product could be a bit difficult to understand what is it as people doesn't have experience of KVM, VNC, VLC, sort of things. I will make some more demo videos, which shall be much easier to present our mini-KVM's capabilities for certain use cases.
-
-Well, please take a look and let us know what you think. If something's not quite right or if you fancy a chat about it, drop me a message! Your insights are gold. ✨
-
-Thanks a million for your support, you tech aficionados! Whether you're a critic or a cheerleader, you're what keeps us going. Let's keep the conversation rolling! 💌
-
-Catch ya later! 🌈
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="479"><a href="https://www.reddit.com/r/Openterface_miniKVM/comments/1ak4kes/minikvm_openterface_buzz_cheers_jeers_updates/">Openterface mini-KVM Buzz: Cheers, Jeers, &amp; Updates!</a><br> by<a href="https://www.reddit.com/user/youyoubilly/">u/youyoubilly</a> in<a href="https://www.reddit.com/r/Openterface_miniKVM/">Openterface_miniKVM</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 --------
 

@@ -6,41 +6,42 @@ categories:
   - Annuncio
 ---
 
-# MacOS App Launch & Wanna Become a Beta Tester!
+# Lancio dell'App per macOS & Vuoi Diventare un Beta Tester!
 
 ![macos-app-poster](/images/event/macos_app.webp)
 
-Greetings, Community Members!
+Saluti, Membri della Comunità!
 
-I hope this message finds you all in good spirits!
+Spero che questo messaggio vi trovi tutti di buon umore!
 
-I'm thrilled to share a milestone achievement with you today: **Our macOS host application for Openterface mini-KVM is now available on the Apple App Store!**
+Sono entusiasta di condividere con voi un traguardo importante: **La nostra applicazione host per macOS per Openterface mini-KVM è ora disponibile sull'Apple App Store!**
 
 <!-- more -->
 
-To discover our application, simply search for "Openterface" or "minikvm" on the App Store 🔍.
+Per scoprire la nostra applicazione, basta cercare "Openterface" o "minikvm" sull'App Store 🔍.
 
 ![macos-app-demo-connnection](/images/event/macos-app-demo-connections.webp)
 
-However, there's a unique twist! As of now, you might not be able to fully experience the app without an Openterface mini-KVM device. This brings us to an exciting opportunity: **We are inviting our cherished community members to become beta testers!** 🌟
+Tuttavia, c'è una particolarità! Al momento, potreste non essere in grado di sperimentare completamente l'app senza un dispositivo Openterface mini-KVM. Questo ci porta a un'opportunità emozionante: **Invitiamo i nostri amati membri della comunità a diventare beta tester!** 🌟
 
-As a tester, you'll not only gain early access to our groundbreaking application but will also receive an Openterface mini-KVM, on the house! We're inviting you to test our app and device in real-world scenarios: your work or hobby projects.
+Come tester, non solo avrete accesso anticipato alla nostra rivoluzionaria applicazione, ma riceverete anche un Openterface mini-KVM, gratuitamente! Vi invitiamo a testare la nostra app e il dispositivo in scenari reali: i vostri progetti di lavoro o hobby.
 
-🕵️ **Your mission?** To identify any bugs 🐞 that need addressing, suggest features 🚀 that could enhance your experience, and much more. This is your chance to directly influence the development of a product designed to streamline your digital life. Your contributions will not only be appreciated but also acknowledged in our thank-you list 📜 later. Please note, the opportunity to become a beta tester is limited due to the unique and exclusive nature of this early access phase.
+🕵️ **La vostra missione?** Identificare eventuali bug 🐞 che necessitano di correzione, suggerire funzionalità 🚀 che potrebbero migliorare la vostra esperienza, e molto altro ancora. Questa è la vostra occasione per influenzare direttamente lo sviluppo di un prodotto progettato per semplificare la vostra vita digitale. I vostri contributi non saranno solo apprezzati, ma anche riconosciuti nella nostra lista di ringraziamenti 📜 in seguito. Si prega di notare che l'opportunità di diventare beta tester è limitata a causa della natura unica ed esclusiva di questa fase di accesso anticipato.
 
-📝 **Interested?** If you're eager to embark on this pioneering journey with us, simply express your interest by replying to this post and completing [the application form](https://forms.gle/gNKpnvrvwnZNUJbq5).
+📝 **Interessati?** Se siete ansiosi di intraprendere questo viaggio pionieristico con noi, esprimete semplicemente il vostro interesse rispondendo a questo post e completando [il modulo di iscrizione](https://forms.gle/gNKpnvrvwnZNUJbq5).
 
-🗓 **Deadline for This Round**: the deadline to express interest and submit your application for this first round of beta testing is **29th March**, New York time. We will announce the lucky individuals selected as our beta testers right here in this post on 1st April. Don't miss this unique opportunity to shape the future of technology with us.
+🗓 **Scadenza per Questo Turno**: la scadenza per esprimere interesse e inviare la vostra domanda per questo primo turno di beta testing è **29 marzo**, ora di New York. Annunceremo gli individui fortunati selezionati come nostri beta tester proprio qui in questo post il 1 aprile. Non perdete questa opportunità unica di plasmare il futuro della tecnologia con noi.
 
-⏳ **What's Next?** This is just the first round of invitations for beta testers. If you don't make it this time, don't lose hope! Stay tuned for future rounds.
+⏳ **E Dopo?** Questo è solo il primo turno di inviti per i beta tester. Se non ce la fate questa volta, non perdete la speranza! Rimanete sintonizzati per i turni futuri.
 
-📣 **A Call to Action!** Beyond testing, we have another favour to ask. Help us spread the word about the Openterface mini-KVM and its upcoming crowdfunding campaign. Your support could be the wind beneath our wings, propelling this product into existence more swiftly and making it more affordable. Every share, every conversation helps us gain the momentum we need.
+📣 **Un Invito all'Azione!** Oltre al testing, abbiamo un altro favore da chiedere. Aiutateci a diffondere la voce sull'Openterface mini-KVM e la sua prossima campagna di crowdfunding. Il vostro supporto potrebbe essere il vento sotto le nostre ali, spingendo questo prodotto a esistere più velocemente e rendendolo più conveniente. Ogni condivisione, ogni conversazione ci aiuta a ottenere lo slancio di cui abbiamo bisogno.
 
-We're looking forward to your support! If you haven't subscribed to our [Crowd Supply's Pre-launch page](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) yet, please do so and consider becoming our backer in the upcoming crowdfunding campaign. Can't wait to embark on this adventure with you! ❤️
+Attendiamo con ansia il vostro supporto! Se non vi siete ancora iscritti alla nostra [pagina di pre-lancio di Crowd Supply](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm), fatelo e considerate di diventare nostri sostenitori nella prossima campagna di crowdfunding. Non vediamo l'ora di intraprendere questa avventura con voi! ❤️
 
-Best,
+Cordiali saluti,
 
-Openterface Team | TechxArtisan Studio
+Team Openterface | TechxArtisan Studio
+
 
 --------
 

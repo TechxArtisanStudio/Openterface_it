@@ -7,9 +7,9 @@ categories:
   - Tech Review
 ---
 
-# Cameron Gray's (p)review of Our Mini KVM
+# La (p)review di Cameron Gray del nostro Mini KVM
 
-We're super excited and totally grateful to see our miniKVM pop up on Cameron Gray's YouTube channel! A massive shoutout to Cameron for his awesome deep dive and spot-on insights about this cool little gadget!
+Siamo super entusiasti e totalmente grati di vedere il nostro miniKVM apparire sul canale YouTube di Cameron Gray! Un enorme ringraziamento a Cameron per il suo fantastico approfondimento e le sue intuizioni precise su questo piccolo gadget fantastico!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xAEQpWyfY-c?si=BvkpZzJ8OfT2j8lr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

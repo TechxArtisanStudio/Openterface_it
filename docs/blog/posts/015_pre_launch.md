@@ -6,13 +6,14 @@ categories:
   - Annuncio
 ---
 
-# Pre-Launch on Crowd Supply NOW!
+# Pre-Lancio su Crowd Supply ORA!
 
 ![pre-launch-poster](/images/event/pre_launch_poster.jpg)
 
-🚀 Exciting news! Our Openterface Mini-KVM is finally live on ! Control headless devices with just your laptop - no extra peripherals needed. Perfect for IT pros, developers, and tech enthusiasts. Make your tech life easier! 🌈
+🚀 Notizie entusiasmanti! Il nostro Openterface Mini-KVM è finalmente attivo! Controlla dispositivi senza testa solo con il tuo laptop - nessuna periferica aggiuntiva necessaria. Perfetto per i professionisti IT, gli sviluppatori e gli appassionati di tecnologia. Rendi la tua vita tecnologica più facile! 🌈
 
-Check out the [Pre-Launch page](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) here and Join subscription!
+Dai un'occhiata alla [pagina del Pre-Lancio](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) qui e unisciti alla sottoscrizione!
+
 
 <!-- more -->
 
