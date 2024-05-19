@@ -3,21 +3,25 @@ date: 2024-01-15
 authors:
   - Openterface
 categories:
-  - お知らせ
+  - Annuncio
 ---
 
-# 私たちのウェブサイトへようこそ！
+# Benvenuti sul nostro sito web!
 
-👋 愛好家の皆さん、こんにちは！ 🌍 私たちは公式ウェブサイトの開設を発表できることを嬉しく思います。**Openterface mini-KVM**の最新情報や開発状況をご覧いただけます。
+👋 Saluti, Amanti della Tecnologia! 🌍 Siamo entusiasti di annunciare il lancio del nostro sito ufficiale per il nostro **Openterface mini-KVM**. Qui troverete gli ultimi aggiornamenti e sviluppi riguardanti l'hardware e il software.
 
 <!-- more -->
 
-ドキュメントはこちらからご覧ください: [openterface.com](https://openterface.com)
-また、クリエイティブスタジオ**TechxArtisan**を見つけてフォローしてください
+Potete consultare i suoi documenti qui: [openterface.com](https://openterface.com)
+Potete anche trovare e seguire il nostro studio creativo **TechxArtisan** su
 
-* [私たちのsubredditに参加する](https://www.reddit.com/r/Openterface_miniKVM/)
-* [GitHubのTechxArtisan](https://github.com/TechxArtisanStudio/Openterface/discussions)
-* [Twitterでフォローする](https://twitter.com/TechxArtisan)
-* [Facebookでいいね！](https://www.facebook.com/TechxArtisan)
-* [Studio Discordに参加する](https://discord.gg/skfExqDD)
-* [YouTubeチャンネルを購読する](https://youtube.com/@TechxArtisan)
+* [Unisciti al nostro subreddit](https://www.reddit.com/r/Openterface_miniKVM/)
+* [TechxArtisan su GitHub](https://github.com/TechxArtisanStudio/Openterface/discussions)
+* [Seguici su Twitter](https://twitter.com/TechxArtisan)
+* [Metti mi piace su Facebook](https://www.facebook.com/TechxArtisan)
+* [Unisciti al nostro Studio su Discord](https://discord.gg/skfExqDD)
+* [Iscriviti al nostro canale YouTube](https://youtube.com/@TechxArtisan)
+
+Rimanete connessi e tenete d'occhio i nostri post per notizie e informazioni entusiasmanti!
+
+![txa-banner](https://pbs.twimg.com/media/GD5IwIzaAAAZRwx?format=jpg&name=4096x4096){ style="max-height: 480px; width: auto;" loading="lazy" }
