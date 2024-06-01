@@ -15,7 +15,7 @@ Ciao a tutti!
 
 Abbiamo appena concluso un fantastico [YouTube livestream](https://www.youtube.com/live/lwitzvmxsgc?si=s9a1t5_Sce5v22e1) con David Groom di MAKE: Magazine! Durante la sessione, abbiamo approfondito la storia di Openterface Mini-KVM, un'innovativa soluzione hardware open-source progettata per controllare senza sforzo i dispositivi headless e i computer single-board come Raspberry Pis utilizzando solo il vostro laptop. Per maggiori dettagli è possibile consultare il livestream su YouTube o semplicemente leggere la storia qui sotto.
 
-![youtube-con-david-2](029/youtube-con-david.jpg)
+![youtube-with-david-2](029/youtube-with-david.jpg)
 
 <!-- more -->
 
@@ -37,7 +37,7 @@ Inizialmente, abbiamo fatto ricorso a soluzioni di fortuna con monitor portatili
 ### Il primo prototipo
 Il nostro primo prototipo fai-da-te era una combinazione semplice ma efficace di una scheda di acquisizione per recuperare il video dal dispositivo senza testa e di un simulatore di tastiera/mouse USB, il tutto integrato in un unico cavo USB collegato ai nostri computer portatili.
 
-![/early-mini-kvm-pcb](029/early-mini-kvm-pcb.jpg)
+![early-mini-kvm-pcb](029/early-mini-kvm-pcb.jpg)
 *Una delle prime versioni della scheda mini-KVM*.
 
 Nel novembre 2023 abbiamo esposto i nostri progetti artistici tecnologici alla Shenzhen Maker Faire, con l'intenzione di mostrare il prototipo del mini-KVM a David. Tuttavia, eravamo così eccitati per i regali di David che lo abbiamo dimenticato!
