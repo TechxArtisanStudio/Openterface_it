@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Come Funziona
 
 ## Analisi del Processo
