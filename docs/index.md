@@ -6,4 +6,4 @@ social:
     title: Openterface Mini-KVM | Trasforma il Tuo Laptop in una Console KVM
 ---
 
-Benvenuti in Openterface mini-KVM.
+Benvenuto su Openterface Mini-KVM.

@@ -1,8 +1,8 @@
 # Project information
-site_name: Openterface Mini-KVM | Trasforma il tuo laptop in una console KVM
-site_url: https://it.openterface.com/
+site_name: Openterface | Collegare Interfacce a Nuove Possibilità
+site_url: https://openterface.com/
 site_author: Billy Wang
-site_description: Una soluzione KVM-over-USB ricca di funzionalità, open-source e guidata dalla comunità
+site_description: Una Soluzione KVM-over-USB Ricca di Funzionalità, Open-source e Guidata dalla Comunità
 
 # Repository
 repo_name: Openterface
@@ -10,18 +10,18 @@ repo_url: https://github.com/TechxArtisanStudio/Openterface
 
 # Copyright
 copyright: >-
-  Diritto d'autore &copy; Tutti i diritti riservati. 2023 <a href="https://www.openterface.com">Openterface MiniKVM</a>, Guangzhou Billio Tech. Co., Ltd. <br>
+  Copyright &copy; Tutti i diritti riservati. 2023 <a href="https://www.openterface.com">Openterface</a> | <a href="https://www.techxartisan.com">TechxArtisan</a> | Guangzhou Billio Tech. Co., Ltd. <br>
   <a href="">Home</a> |
-  <a href="/terms-of-service">Termini di servizio</a> |
-  <a href="/privacy-policy">Politica sulla riservatezza</a> | 
-  <a href="#__consent">Impostazioni dei cookie</a> | 
+  <a href="/terms-of-service">Termini di Servizio</a> |
+  <a href="/privacy-policy">Informativa sulla Privacy</a> | 
+  <a href="#__consent">Impostazioni Cookie</a> | 
   <a href="/contact">Contattaci</a>
 
 extra_css:
   - assets/stylesheets/extra.css
 
-# extra_javascript:
-#   - assets/javascripts/extra.js
+extra_javascript:
+  - assets/javascripts/extra.js
 
 # Configuration
 theme:
@@ -31,7 +31,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: assets/logo.png
+  logo: assets/app-logo.png
   favicon: images/favicon.png
   features:
    - navigation.tabs
@@ -45,9 +45,27 @@ theme:
    - content.tabs
    - content.code.annotation
    - content.code.copy
+   - content.tabs.link
+
   palette:
-    primary: deep orange
-    accent: custom
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
@@ -68,9 +86,9 @@ extra:
     - icon: txa/crowd-supply-icon
       link: https://www.crowdsupply.com/techxartisan/openterface-mini-kvm
     - icon: fontawesome/brands/reddit-alien
-      link: https://www.reddit.com/r/Openterface_miniKVM/
+      link: /reddit
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/sFTJD6a3R8
+      link: /discord
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@TechxArtisan
     - icon: fontawesome/brands/x-twitter
@@ -79,20 +97,13 @@ extra:
       link: https://www.facebook.com/TechxArtisan
     - icon: fontawesome/brands/linkedin-in
       link: https://www.linkedin.com/company/techxartisan/
-
-    # - icon: fontawesome/brands/github-alt
-    #   link: https://github.com/TechxArtisan
   
   alternate:
     - name: English
-      link: https://openterface.com/
+      link: /
       lang: en
-    # - name: 中文简体
-    #   link: https://zh.openterface.com/
-    #   lang: zh
-    # - name: 中文繁體
-    #   link: https://tw.openterface.com/
-    #   lang: zh-Hant
+    - name: 简中文
+      link: https://cn.openterface.com/
     - name: 日本語
       link: https://jp.openterface.com/
       lang: ja
@@ -111,9 +122,13 @@ extra:
     - name: Español
       link: https://es.openterface.com/
       lang: es
-    # - name: Português
-    #   link: https://pt.openterface.com/
-    #   lang: pt
+      lang: zh
+    - name: Português
+      link: https://pt.openterface.com/
+      lang: pt
+    - name: Română
+      link: https://ro.openterface.com/
+      lang: ro
     # - name: Svenska
     #   link: https://sv.openterface.com/
     #   lang: sv
@@ -124,11 +139,12 @@ extra:
     #   link: https://nl.openterface.com/
     #   lang: nl
 
+
   consent:
-    title: Consenso sui cookie
+    title: Cookie Consent
     description: >- 
-      Utilizziamo i cookie per migliorare la qualità dei contenuti dei documenti, analizzare l'efficacia del sito e le esigenze.
-      Acconsentendo, ci aiuti a migliorare il nostro sito web. Grazie!
+      We use cookies to enhance quality of docs content, analyse site effectiveness and needs. 
+      By consenting, you help us improve our website. Thanks!
     actions:
       - accept
       - reject
@@ -137,6 +153,7 @@ extra:
     property: G-EKZEH6QYWT
 
 markdown_extensions:
+  # Enables tables
   - tables
   # Enables admonitions
   - admonition
@@ -147,6 +164,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
   # Enables emoji shortcodes like :+1: or :sunglasses:
   - attr_list
   - md_in_html
@@ -163,6 +182,21 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
+  - redirects:
+      redirect_maps:
+        'basic-testing.md': 'basic.md'
+        'community.md': 'https://www.reddit.com/r/Openterface_miniKVM/'
+        'discord.md': 'https://discord.gg/sFTJD6a3R8'
+        'reddit.md': 'https://www.reddit.com/r/Openterface_miniKVM/'
+        'macos.md': 'https://github.com/TechxArtisanStudio/Openterface_MacOS'
+        'android.md': 'https://github.com/TechxArtisanStudio/Openterface_Android'
+        'qt.md': 'https://github.com/TechxArtisanStudio/Openterface_QT'
+        'window.md': 'https://github.com/TechxArtisanStudio/Openterface_QT'
+        'linux.md': 'https://github.com/TechxArtisanStudio/Openterface_QT'
+        'hardware.md': 'https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware'
+        'feedback.md': 'https://forms.gle/YJLrCKwro8tbi6ar7'
+        'oshw.md': 'https://certification.oshwa.org/cn000015.html'
+        'x.md': 'https://x.com/TechxArtisan'
   - tags:
       tags_file: tags.md
   - blog:
@@ -179,27 +213,36 @@ plugins:
 
 nav:
   - Home: index.md
-  - Domande frequenti: faq.md
   - Documentazione:
-    - Avvio rapido: quick-start.md
-    - Perché Openterface: why-openterface-minikvm.md
-    - Casi d'uso: use-cases.md
+    - Guida Rapida: quick-start.md
+    - Caratteristiche: features.md
+    - Come Connettersi: how-to-connect.md
+    - Software Open: app.md
+    - Hardware Open: open-hardware.md
+    - Controllo Base: basic.md
+    - Porta USB Commutabile: usb-switch.md
+    - Pin di Estensione: pin.md
+    - Casi d'Uso: use-cases.md
     - Specifiche: specifications.md
-    - Contenuto della scatola: whats-in-the-box.md
-    - Come funziona: how-it-works.md
+    - Cosa c'è nella Scatola: whats-in-the-box.md
+    - Accessori: accessories.md
+    - Come Funziona: how-it-works.md
+    - Perché Openterface: why-openterface.md
     - Confronto: comparison.md
-    - Domande frequenti: faq.md
+    - Domande Frequenti: faq.md
     - Sviluppo:
-          - Contribuire: contributing.md
-          - Test di base: basic-testing.md
-  - Comunità:
-      - Benvenuti: community.md
-  # - Articoli: https://openterface.com/blog/
-  - Articoli:
+      - Test & Sviluppo: test.md
+      - Roadmap: roadmap.md
+      - Contribuire: contributing.md
+  - Domande Frequenti: /faq
+  - Casi d'Uso: /use-cases
+  - Blog:
     - blog/index.md
+  - Reddit: /reddit
+  - Discord: /discord
   - Informazioni:
-      - Contatti: contact.md
-      - Politiche:
-        - Politica sulla privacy: privacy-policy.md
-        - Termini di servizio: terms-of-service.md
-        - Resi, rimborsi, garanzia: return-refunds-warranty.md
+    - Contatti: contact.md
+    - Politiche:
+      - Politica sulla Privacy: privacy-policy.md
+      - Termini di Servizio: terms-of-service.md
+      - Resi, Rimborsi & Garanzia: return-refunds-warranty.md

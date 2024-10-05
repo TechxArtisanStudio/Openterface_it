@@ -1,4 +1,4 @@
 # Roadmap
 
-Lavoro in corso
-In arrivo.
+Lavori in corso
+Prossimamente in arrivo.

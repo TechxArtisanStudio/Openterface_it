@@ -1,42 +1,47 @@
-# Specifiche
+# Specifiche Tecniche
 
-## Panoramica
+![lig-front](images/product/minikvm-v1-9-front.svg#only-light){:style="max-height:260px"}
+![lig-back](images/product/minikvm-v1-9-back.svg#only-light){:style="max-height:260px"}
+![lig-front](images/product/minikvm-v1-9-front_1.svg#only-dark){:style="max-height:260px"}
+![lig-back](images/product/minikvm-v1-9-back_1.svg#only-dark){:style="max-height:260px"}
 
-![lig-front](images/product/lig-front.svg)
-![lig-back](images/product/lig-back.svg)
+## Informazioni sul Prodotto
+- Nome del Prodotto: Openterface Mini-KVM Basic / Toolkit
+- Nome del Modello: OP-MINIKVM-BASIC / OP-MINIKVM-TOOLKIT
 
-- Dimensioni: 61 x 13,5 x 53 mm / 2,40 x 0,53 x 2,09 pollici (Lunghezza x Larghezza x Altezza)
-- Peso: 48g
-- Rivestimento: Profilo in alluminio
+## Dimensioni e Peso
+- Dimensioni del Dispositivo (L x P x A): 61 x 53 x 13.5 mm
+- Peso Netto del Dispositivo: Circa 48g
+- Materiale della Scocca: Lega di alluminio, PLA
 
-## Interfacce
-
-![host-side](images/labels/host-side.png)
-![target-side](images/labels/target-side.png)
-
-- ① ![Type-C to Host](images/labels/Host.svg) **Porta USB-C Host** (Femmina): Come porta dispositivo USB, collega al computer Host per il trasferimento dati tramite hub USB integrato
-- ② ![Type-C to Target](images/labels/Target.svg) **Porta USB-C Target** (Femmina): Come porta dispositivo USB, collega al computer Host per emulare l'uscita HID di tastiera e mouse tramite hub USB integrato
-- ③ ![HDMI Port](images/labels/HDMI.svg) **Porta di Input HDMI (Femmina)**: Ingresso sorgente HDMI dal computer Target
-- ④ ![Switchable USB-A Port](images/labels/sw-USB.svg) **Porta USB-A 2.0 commutabile (Femmina)**: Come porta host USB, utilizzata sia dal computer host che dal computer target in qualsiasi momento, ma non contemporaneamente
-- ⑤ ![Switcher](images/labels/USB-sw-front.svg) **Interruttore a levetta**: Per commutare la connessione della porta USB-A 2.0 tra il computer host e il computer target
-
-## Alimentazione
-
-- Tipo di Connessione: Alimentato tramite USB-C. Non è necessaria un'alimentazione esterna.
+## Compatibilità
+- Host: Windows, macOS, Linux, Android (con app compatibile)
+- Target: Nessuna installazione software richiesta
 
 ## Video
-
-- Input Video Massimo: Fino a 3840x2160@30Hz, tramite HDMI (Nota: Con l'uso di un adattatore, può supportare anche VGA, Micro HDMI, DVI e altre sorgenti di ingresso video)
-- Risoluzioni Video Supportate: Fino a 1920x1080@30Hz
+- Ingresso Video Massimo: Fino a 3840x2160@30Hz tramite HDMI
+- Uscita Video Massima: Fino a 1920x1080@30Hz
 - Metodi di Compressione Video: YUV, MJPEG
+- Supporto Video Aggiuntivo: VGA, DVI, Micro HDMI (tramite adattatore)
 - Latenza: Inferiore a 140 millisecondi
 
 ## Audio
+- Cattura Audio: Pass-through audio integrato HDMI
 
-- Modalità di Acquisizione Audio: Audio HDMI incorporato
+## Alimentazione
+- Alimentato tramite USB-C. Non è necessario un alimentatore esterno.
 
-## Ambientale
+## Connettività
+- Trasmissione USB: 12Mbps a piena velocità
 
-- Temperatura di Funzionamento: 0°C a 40°C
-- Temperatura di Stoccaggio: -10°C a 50°C
+## Caratteristiche
+- Emulazione completa di tastiera e mouse (assoluta e relativa)
+- Trasferimento di testo
+- Supporto per tasti multimediali
+- Funzionalità HID personalizzata
+- Funzione di riattivazione del computer
+
+## Ambiente
+- Temperatura Operativa: 0°C a 40°C
+- Temperatura di Conservazione: -10°C a 50°C
 - Umidità: 80% RH

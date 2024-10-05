@@ -1,10 +1,10 @@
 # Contattaci
 
-Siamo lieti che tu sia interessato a metterti in contatto con noi. Che tu abbia domande, feedback o semplicemente voglia salutarci, ecco diversi modi per connetterti con noi:
+Siamo felici che tu voglia metterti in contatto con noi. Che tu abbia domande, feedback o semplicemente voglia salutarci, ecco diversi modi per connetterti con noi:
 
 ## Email di Contatto Ufficiali
 
-Per assicurarti di comunicare con noi in modo sicuro e diretto, prendi nota dei nostri indirizzi email ufficiali. Per qualsiasi domanda, supporto o feedback, non esitare a contattarci a:
+Per garantire una comunicazione sicura e diretta, ti preghiamo di utilizzare i nostri indirizzi email ufficiali. Per qualsiasi richiesta, supporto o feedback, non esitare a contattarci a:
 
 - **Email di Contatto Principale:** [info@techxartisan.com](mailto:info@techxartisan.com)
 
@@ -17,20 +17,29 @@ Le email provenienti da questi indirizzi sono inviate dal nostro team, dedicato 
 
 ## Seguici sui Social Media
 
-Rimani aggiornato e connesso con noi attraverso i nostri canali social:
+Rimani aggiornato e interagisci con noi attraverso i nostri canali social:
 
-- :fontawesome-brands-reddit-alien: [Unisciti al nostro subreddit](https://www.reddit.com/r/Openterface_miniKVM/)
-- :fontawesome-brands-github-alt: [TechxArtisan su GitHub](https://github.com/TechxArtisanStudio/Openterface/discussions)
+- :fontawesome-brands-reddit-alien: [Unisciti al nostro subreddit](/reddit)
 - :fontawesome-brands-x-twitter: [Seguici su Twitter](https://twitter.com/TechxArtisan)
-- :fontawesome-brands-facebook-f: [Metti mi piace su Facebook](https://www.facebook.com/TechxArtisan)
-- :fontawesome-brands-discord: [Unisciti alla nostra community su Discord](https://discord.gg/sFTJD6a3R8)
+- :fontawesome-brands-facebook-f: [Metti Mi Piace su Facebook](https://www.facebook.com/TechxArtisan)
+- :fontawesome-brands-discord: [Unisciti alla nostra community su Discord](/discord)
 - :fontawesome-brands-youtube: [Iscriviti al nostro canale YouTube](https://youtube.com/@TechxArtisan)
 - :fontawesome-brands-linkedin-in: [Seguici su LinkedIn](https://www.linkedin.com/company/techxartisan/)
 
 ## Visita il Nostro Sito Web
 
-Per maggiori informazioni su di noi e sul nostro lavoro, visita il nostro sito web:
+Per maggiori informazioni su di noi, il nostro lavoro e i nostri prodotti, visita il nostro sito web:
 
 - :fontawesome-solid-globe: [Sito Ufficiale TechxArtisan](https://techxartisan.com/en/)
 
-Non vediamo l'ora di connetterci con te!
+## Marchi e Proprietà dei Domini
+
+Openterface e TechxArtisan sono marchi registrati di **Guangzhou Billio Technology Co., Ltd.** (Billio Tech), che funge da nostra entità commerciale ufficiale. Billio Tech detiene i diritti interpretativi finali per entrambi i marchi Openterface e TechxArtisan.
+
+Il dominio Openterface.com è registrato sotto Billio Tech, confermando la nostra proprietà e gestione di tutte le comunicazioni e operazioni ufficiali associate.
+
+## Informazioni sulla Nostra Azienda
+
+- **Nome dell'Azienda:** Guangzhou Billio Technology Co., Ltd.
+- **Indirizzo:** Stanza 11, No. 1, Longjing North Street, Distretto di Haizhu, Città di Guangzhou, Provincia di Guangdong, 510320 Cina
+- **Informazioni di Contatto:** [info@techxartisan.com](mailto:info@techxartisan.com)
