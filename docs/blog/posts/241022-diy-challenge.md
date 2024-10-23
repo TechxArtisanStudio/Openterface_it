@@ -25,6 +25,7 @@ Attenzione a tutti i dilettanti, creatori e sognatori! Siamo entusiasti di prese
 **Categorie:** Premi per i migliori performer includono riconoscimenti sia per abilità tecniche che per creatività, quindi tutti hanno una possibilità!
 
 **Premi Fantastici:**
+
 - Un'edizione limitata di Openterface Mini-KVM con una custodia trasparente e argentata.
 - Il futuristico Pi-Cast KVM di HackerGadgets.
 - Il GameShell ispirato al retrò di Clockwork.
