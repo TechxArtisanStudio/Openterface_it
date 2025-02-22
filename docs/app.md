@@ -16,7 +16,7 @@ Per utilizzare questo mini-KVM, il computer host deve installare una delle segue
 
     Scarica l'app Openterface QT per Windows
 
-    [:octicons-download-24: Scarica {{qt_version}} Programma di installazione](https://github.com/TechxArtisanStudio/Openterface_QT/releases/download/{{qt_version}}/openterfaceQT.windows.amd64.installer.zip)  <br>
+    [:octicons-download-24: Scarica {{qt_version}} Installazione](https://github.com/TechxArtisanStudio/Openterface_QT/releases/download/{{qt_version}}/openterfaceQT.windows.amd64.installer.zip)  <br>
     [:octicons-download-24: Scarica {{qt_version}} EXE portatile](https://github.com/TechxArtisanStudio/Openterface_QT/releases/download/{{qt_version}}/openterfaceQT.windows.amd64.portable.zip)  <br>
     [:octicons-mark-github-16: Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT)  <br>
     [:octicons-play-24: Guarda la Demo](https://youtu.be/ERzpGtRvP2o?si=e9k402f0nxsD8o2j)
