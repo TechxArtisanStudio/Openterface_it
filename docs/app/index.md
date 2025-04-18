@@ -55,7 +55,7 @@ Per far funzionare i tuoi dispositivi Openterface™ KVM, dovrai installare una 
     Poiché tutte le nostre app sono open source, potresti imbatterti in versioni alternative delle applicazioni host per dispositivi Openterface create da altri. Possono essere piuttosto interessanti e offrire funzionalità extra, ma ecco un promemoria amichevole: esamina attentamente le loro pratiche di sicurezza e privacy, soprattutto perché il controllo KVM coinvolge eventi dal tuo schermo, tastiera e mouse. Il team di Openterface non può garantire la sicurezza di queste app di terze parti, quindi procedi con cautela!
 
 <div class="container">
-    <img src="/images/product/win_qt_app.jpg" alt="Immagine Poster" class="poster-image-shadow">
+    <img src="/images/product/win_qt_app.webp" alt="Immagine Poster" class="poster-image-shadow">
 </div>
 
 ## Unisciti al Nostro Sviluppo
