@@ -1,7 +1,7 @@
 <!-- Footer -->
 <footer class="md-footer">
 
-    <!-- Link to previous and/or next page -->
+    <!-- Collegamento alla pagina precedente e/o successiva -->
     {% if "navigation.footer" in features %}
       {% if page.previous_page or page.next_page %}
         {% if page.meta and page.meta.hide %}
@@ -13,7 +13,7 @@
           {{ hidden }}
         >
   
-          <!-- Link to previous page -->
+          <!-- Collegamento alla pagina precedente -->
           {% if page.previous_page %}
             {% set direction = lang.t("footer.previous") %}
             <a
@@ -36,7 +36,7 @@
             </a>
           {% endif %}
   
-          <!-- Link to next page -->
+          <!-- Collegamento alla pagina successiva -->
           {% if page.next_page %}
             {% set direction = lang.t("footer.next") %}
             <a
@@ -62,7 +62,7 @@
       {% endif %}
     {% endif %}
   
-    <!-- Further information -->
+    <!-- Ulteriori informazioni -->
     <div class="md-footer-meta md-typeset">
       <div class="md-footer-meta__inner md-grid footer-flex-container">
 
@@ -77,27 +77,27 @@
                   target="_blank">
               <div id="google_form_signup_scroll">
                 <div class="gf-field-group">
-                  <input type="text" name="entry.1988135673" class="required" id="google-form-first-name" required="" placeholder="Il tuo nome">
+                  <input type="text" name="entry.1988135673" class="required" id="google-form-first-name" required="" placeholder="Il tuo Nome">
                 </div>
                 <div class="gf-field-group">
-                  <input type="email" name="emailAddress" class="required email" id="google-form-email" required="" placeholder="Il tuo indirizzo email *">
-                  <input type="hidden" name="entry.22394832" value="Openterface-it">
+                  <input type="email" name="emailAddress" class="required email" id="google-form-email" required="" placeholder="Il tuo Indirizzo Email *">
+                  <input type="hidden" name="entry.22394832" value="Openterface-eng">
                 </div>
                 <div class="clear">
-                  <input type="submit" name="submit" id="google-form-submit" class="button" value="✉️ Iscriviti per le ultime novità! 🐝">
-                  <p class="footnote">Non più di una email al mese. Disiscriviti in qualsiasi momento.</p>
+                  <input type="submit" name="submit" id="google-form-submit" class="button" value="✉️ Iscriviti alle Ultime Novità! 🐝">
+                  <p class="footnote">Non più di un'email al mese. Disiscriviti in qualsiasi momento.</p>
                 </div>
               </div>
             </form>
           </div>
         </div>
 
-        <!-- Copyright info -->
+        <!-- Informazioni sul copyright -->
         <div class="footer-flex-item footer-copyright">
           {% include "partials/copyright.html" %}
         </div>
 
-        <!-- Social links -->
+        <!-- Link social -->
         {% if config.extra.social %}
           <div class="footer-flex-item footer-social">
             {% include "partials/social.html" %}
