@@ -17,4 +17,4 @@ Sperimenta una durata e prestazioni superiori con il nostro cavo USB-C recenteme
 - **Velocità di Trasferimento Dati**: Fino a 10Gbps
 - **Potenza di Ricarica**: 240W
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/upgraded-nylon-usb-c-cable-240w-fast-charging-10gbps-data-transfer-1-5m-with-usb-a-adapter-eye-catching-orange'"> Effettua Ordine <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/upgraded-nylon-usb-c-cable-240w-fast-charging-10gbps-data-transfer-1-5m-with-usb-a-adapter-eye-catching-orange'"> Effettua Ordine <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>

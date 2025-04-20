@@ -14,4 +14,4 @@ Questo cavo HDMI compatto è perfetto per collegare il tuo dispositivo di destin
 - **Colore**: Nero
 - **Uso**: Ideale per la trasmissione video ad alta definizione dal dispositivo di destinazione al Mini-KVM.
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/hdmi-male-to-male-cable'"> Effettua Ordine <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/hdmi-male-to-male-cable'"> Effettua Ordine <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>

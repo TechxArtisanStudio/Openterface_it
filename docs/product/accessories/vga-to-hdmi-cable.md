@@ -71,4 +71,4 @@ Per un caso d'uso dettagliato di questo cavo, visita [Gestione del Server Sempli
 Guarda il video dimostrativo dell'influencer tecnologico **Cameron Gray** su come utilizzare questo cavo con il Mini-KVM:  
 [Questa Console USB KVM è Fantastica!](https://youtu.be/xAEQpWyfY-c?si=auB5NtqHVw2C7iIK&t=1693)
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/vga-to-hdmi-converter-cable'"> Effettua Ordine <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/vga-to-hdmi-converter-cable'"> Effettua Ordine <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>

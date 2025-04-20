@@ -15,4 +15,4 @@ Questo versatile cavo Type-C Maschio a USB-A Maschio, abbinato a un adattatore U
 - **Adattatore**: USB-A Femmina a USB-C Maschio
 - **Uso**: Facilita il controllo e il trasferimento dati al dispositivo di destinazione.
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/type-c-to-usb-a-cable-with-adapter'"> Effettua Ordine <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/type-c-to-usb-a-cable-with-adapter'"> Effettua Ordine <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>

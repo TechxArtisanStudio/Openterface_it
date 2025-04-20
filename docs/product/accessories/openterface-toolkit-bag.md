@@ -14,4 +14,4 @@ Mantieni il tuo Mini-KVM Openterface e i suoi accessori organizzati e portatili 
 - **Colore**: Nero con cerniera arancione
 - **Uso**: Ideale per conservare e organizzare il tuo Mini-KVM e i suoi cavi.
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/openterface-toolkit-bag'"> Effettua Ordine <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/openterface-toolkit-bag'"> Effettua Ordine <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
