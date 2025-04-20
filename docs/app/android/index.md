@@ -15,7 +15,7 @@ Siamo impegnati nell'hardware aperto e nel software open-source, con licenza sec
 -   Trasmette in streaming l'output video del dispositivo target collegato sullo schermo Android in tempo reale.
 -   Supporta regolazioni dell'immagine per una visione ottimale.
 
-![image](../../images/android/videoConnect.jpg)
+![image](https://assets.openterface.com/images/android/videoConnect.jpg)
 
 #### Descrizione Interfaccia Utente
 
@@ -29,13 +29,13 @@ Siamo impegnati nell'hardware aperto e nel software open-source, con licenza sec
 3. Avvia l'app; il feed video apparirà automaticamente.
 4. Usa i cursori nella barra degli strumenti per regolare luminosità, contrasto o tonalità secondo necessità.
 
-![image](../../images/android/colorSetting.jpg)
+![image](https://assets.openterface.com/images/android/colorSetting.webp)
 
 #### Funzionalità Speciali
 
 -   Zoom con due dita per migliorare la visione
 
-![image](../../images/android/enlargeAndSideBar.jpg)
+![image](https://assets.openterface.com/images/android/enlargeAndSideBar.webp)
 
 ---
 
@@ -63,7 +63,7 @@ Siamo impegnati nell'hardware aperto e nel software open-source, con licenza sec
 
 -   Controllo del mouse relativo (in sviluppo, attivabile tramite le impostazioni quando disponibile).
 
-## ![image](../../images/android/mouseThouchMode.jpg)
+## ![image](https://assets.openterface.com/images/android/mouseThouchMode.jpg)
 
 ### 3. Input da Tastiera
 
@@ -88,9 +88,9 @@ Siamo impegnati nell'hardware aperto e nel software open-source, con licenza sec
 -   **Tasti Funzione**: F1-F12、Tasti Simbolo.
 -   **Tasti Standard**: 0-9、A-Z、Invio、Spazio、Cancella.
 
-![image](../../images/android/enlargeAndKeyBoard.jpg)
-![image](../../images/android/keyBoardFunction.jpg)
-![image](../../images/android/keyBoardSystem.jpg)
+![image](https://assets.openterface.com/images/android/enlargeAndKeyBoard.webp)
+![image](https://assets.openterface.com/images/android/keyBoardFunction.jpg)
+![image](https://assets.openterface.com/images/android/keyBoardSystem.jpg)
 
 ---
 
