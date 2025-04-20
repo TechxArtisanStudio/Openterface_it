@@ -7,7 +7,7 @@ keywords: "Mini-KVM extension pins, custom development, hardware modification, o
 # **Extension Pins** | Modalità Sviluppatore | Openterface Mini-KVM
 
 ![mini-kvm-pins-port](/images/product/mini-kvm-pins-port.png){:style="height:360px"}
-![pin-cap](/images/product/part/pin-cap.jpg){:style="height:300px"}
+![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.jpg){:style="height:300px"}
 
 L'Openterface Mini-KVM presenta pin di estensione per lo sviluppo avanzato e la sperimentazione con [Open Software](/app). Questi pin non sono esposti nella configurazione standard della custodia.
 
@@ -48,7 +48,7 @@ I pin di estensione forniscono le seguenti connessioni:
 
 ## Cappuccio per Pin di Estensione
 
-![pin-cap](/images/product/part/pin-cap.jpg){:style="height:360px"}
+![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.jpg){:style="height:360px"}
 
 Questo Cappuccio per Pin di Estensione stampato in 3D sostituisce il cappuccio originale sull'Openterface Mini-KVM, permettendo agli utenti avanzati di esporre e accedere ai pin di estensione per lo sviluppo personalizzato. Puoi scaricare i file del modello 3D dal nostro repository GitHub e stampare il cappuccio da solo.
 
