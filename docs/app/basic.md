@@ -5,7 +5,7 @@ keywords: "Controlli Mini-KVM, modalità di controllo del mouse, input da tastie
 
 # Controllo di Base per le App Host
 
-![use-case-pc-angled-view](/images/product/use-case-pc-angled-view.jpg){ width=600 }
+![use-case-pc-angled-view](https://assets.openterface.com/images/product/use-case-pc-angled-view.jpg){ width=600 }
 
 ## 💻 Compatibilità
 

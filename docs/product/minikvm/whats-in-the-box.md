@@ -12,7 +12,7 @@ Esplora le nostre due opzioni di acquisto progettate per soddisfare le tue esige
 
 ## 1. Mini-KVM **Toolkit**
 
-![toolkit-open](/images/product/toolkit-open.jpg){:style="width:680px"}
+![toolkit-open](https://assets.openterface.com/images/product/toolkit-open.jpg){:style="width:680px"}
 
 1. Prodotto Principale: Openterface Mini-KVM
 2. Guida Rapida
@@ -25,13 +25,13 @@ Esplora le nostre due opzioni di acquisto progettate per soddisfare le tue esige
 
 <button class="md-button" onclick="window.location.href='https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products'"> Effettua Ordine <img src="/images/trademark/crowd-supply.svg" alt="Crowd Supply" style="vertical-align: middle; height: 26px;"></button>
 
-![toolkit-parts](/images/product/toolkit-parts.jpg){:style="width:680px"}
+![toolkit-parts](https://assets.openterface.com/images/product/toolkit-parts.jpg){:style="width:680px"}
 
 ---
 
 ## 2. Mini-KVM **Basic**
 
-![basic-pack](/images/product/basic-with-maunal.jpg){:style="width:680px"}
+![basic-pack](https://assets.openterface.com/images/product/basic-with-maunal.jpg){:style="width:680px"}
 
 1. Prodotto Principale: Openterface Mini-KVM
 2. Guida Rapida
