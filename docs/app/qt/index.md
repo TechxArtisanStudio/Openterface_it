@@ -7,7 +7,7 @@ Questo documento fornisce una panoramica del software KVM (Keyboard, Video, Mous
 ### Preferenze
 
 Il menu Preferenze consente agli utenti di personalizzare le impostazioni tramite una finestra di dialogo con quattro schede:<br>
-![Preferences Gernal](https://assets.openterface.com/images/qt/preferenceGernal.png)
+![Preferences Gernal](https://assets.openterface.com/images/qt/preferenceGernal.webp)
 
 -   General: consente di configurare i filtri dei log di debug e di decidere se inibire il salvaschermo durante l'esecuzione dell'applicazione. Le categorie di log includono:
 
@@ -18,7 +18,7 @@ Il menu Preferenze consente agli utenti di personalizzare le impostazioni tramit
 
     Gli utenti possono scegliere se salvare i log in un file .txt e se inibire o meno il salvaschermo.<br>
 
-![Preferences Video](https://assets.openterface.com/images/qt/preferenceVideo.png)
+![Preferences Video](https://assets.openterface.com/images/qt/preferenceVideo.webp)
 
 -   Video: consente di:
 
@@ -28,7 +28,7 @@ Il menu Preferenze consente agli utenti di personalizzare le impostazioni tramit
 
 -   Audio: questa sezione è attualmente in fase di sviluppo.<br>
 
-![Preferences TargetControl](https://assets.openterface.com/images/qt/preferenceTargetControl.png)
+![Preferences TargetControl](https://assets.openterface.com/images/qt/preferenceTargetControl.webp)
 
 -   Controllo del Dispositivo Target: consente di configurare le modalità di controllo per il dispositivo target:
 
@@ -58,15 +58,15 @@ Questo menu permette di:<br>
 ### Avanzate
 
 Il menu Avanzate include le seguenti opzioni:<br>
-![Advance menu](https://assets.openterface.com/images/qt/menuAdvance.png)
+![Advance menu](https://assets.openterface.com/images/qt/menuAdvance.webp)
 
 -   Verifica Ambiente: controlla se i driver richiesti sono installati.
 -   Reimposta Porta Seriale: riavvia la porta seriale.
 -   Reimposta Tastiera e Mouse: ripristina le impostazioni di tastiera e mouse.
 -   Ripristino di Fabbrica del Chip HID: ripristina il chip HID alle impostazioni di fabbrica.<br>
-    ![Advance SerialConsole](https://assets.openterface.com/images/qt/advanceSerialConsole.png)
+    ![Advance SerialConsole](https://assets.openterface.com/images/qt/advanceSerialConsole.webp)
 -   Console Seriale: apre una nuova finestra per monitorare tutti i messaggi inviati alla porta seriale, con filtri per i messaggi inviati/ricevuti.<br>
-    ![Advance ScriptTool](https://assets.openterface.com/images/qt/advanceScriptTool.png)
+    ![Advance ScriptTool](https://assets.openterface.com/images/qt/advanceScriptTool.webp)
 -   Strumento Script: consente l'esecuzione di script AutoHotkey (AHK). Questa funzione imita AutoHotkey ma supporta solo un sottoinsieme di funzioni per mouse/tastiera e la cattura schermate. Gli script agiscono sul dispositivo target.
 -   Server TCP: riceve comandi AutoHotkey via TCP da eseguire sul target.
 -   Aggiornamento Firmware: scarica il firmware più recente da un server remoto, consentendo agli utenti di scegliere se flasharlo sul dispositivo.
@@ -85,7 +85,7 @@ La lingua dell’interfaccia può essere impostata su:
 ### Aiuto
 
 Il menu Aiuto fornisce:<br>
-![Help menu](https://assets.openterface.com/images/qt/menuHelp.png)
+![Help menu](https://assets.openterface.com/images/qt/menuHelp.webp)
 
 -   Link al sito ufficiale e ai moduli per feedback su problemi software/hardware.
 -   Informazioni sull’acquisto dell’hardware.
@@ -97,7 +97,7 @@ Il menu Aiuto fornisce:<br>
 
 La barra dei menu, da sinistra a destra, include le seguenti funzionalità:<br>
 
-![MenuBar](https://assets.openterface.com/images/qt/menubar.png)
+![MenuBar](https://assets.openterface.com/images/qt/menubar.webp)
 
 -   Selezione del Layout Tastiera: scegli il layout della tastiera.
 -   Controlli Zoom: ingrandisci, riduci o ripristina lo zoom dello stream video.
