@@ -1,9 +1,9 @@
 export const siteConfig = {
   name: 'Openterface',
-  url: 'https://en.openterface.com',
+  url: 'https://it.openterface.com',
   legacyUrl: 'https://openterface.com',
   description:
-    'Ultra-compact KVM-over-USB solutions for IT professionals — KVM-GO, Mini-KVM, KeyMod, and uConsole KVM Extension.',
+    'Soluzioni KVM-over-USB ultra-compatte per professionisti IT — KVM-GO, Mini-KVM, KeyMod e uConsole KVM Extension.',
   ogImage: 'https://assets.openterface.com/images/cover/kvm-go-triple.webp',
   accent: '#ff6e42',
   links: {
@@ -16,7 +16,7 @@ export const siteConfig = {
   },
 } as const;
 
-/** Build a legacy openterface.com URL for doc-heavy pages not yet migrated. */
+/** Costruisce un URL legacy openterface.com per pagine piene di documenti non ancora migrate. */
 export function legacyPath(path: string): string {
   const normalized = path.startsWith('/') ? path : `/${path}`;
   return `${siteConfig.legacyUrl}${normalized}`;
