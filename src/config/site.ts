@@ -14,6 +14,38 @@ export const siteConfig = {
     appOverview: 'https://openterface.com/app/overview/',
     subscribe: 'https://subscribe.openterface.com/api/subscribe/',
   },
+  analytics: {
+    enabled: import.meta.env.PROD,
+    google: {
+      provider: 'google' as const,
+      measurementId: 'G-EKZEH6QYWT',
+      linkerDomains: [
+        'openterface.com',
+        'en.openterface.com',
+        'de.openterface.com',
+        'es.openterface.com',
+        'fr.openterface.com',
+        'it.openterface.com',
+        'jp.openterface.com',
+        'ko.openterface.com',
+        'pt.openterface.com',
+        'ro.openterface.com',
+        'zh.openterface.com',
+      ],
+    },
+    ahrefs: {
+      dataKey: 'b3G5nUND8OglcZwfjfwixQ',
+    },
+    consent: {
+      storageKey: 'openterface-cookie-consent',
+      title: 'Consenso sui cookie',
+      description:
+        'Utilizziamo i cookie per migliorare la qualità dei contenuti, analizzare l\'efficacia del sito e le esigenze. Consentendo, ci aiuti a migliorare il nostro sito web. Grazie!',
+      acceptLabel: 'Accetta',
+      rejectLabel: 'Rifiuta',
+      cookieLabel: 'Cookie',
+    },
+  },
 } as const;
 
 /** Costruisce un URL legacy openterface.com per pagine piene di documenti non ancora migrate. */
