@@ -59,6 +59,18 @@ export function legacyPath(path: string): string {
   return `${siteConfig.legacyUrl}${normalized}`;
 }
 
+/** Build a docs.openterface.com URL for this site's locale (English unprefixed at /). */
+export function docsPath(subpath = ''): string {
+  const normalized = subpath.startsWith('/') ? subpath : subpath ? `/${subpath}` : '';
+  const suffix = normalized && !normalized.endsWith('/') ? `${normalized}/` : normalized || '/';
+  const { locale } = siteConfig;
+  const base = siteConfig.links.docs;
+  if (locale === 'en') {
+    return suffix === '/' ? `${base}/` : `${base}${suffix}`;
+  }
+  return `${base}/${locale}${suffix === '/' ? '/' : suffix}`;
+}
+
 /** News hub URL — English is unprefixed at news.openterface.com/ */
 export function newsPath(subpath = ''): string {
   const normalized = subpath.replace(/^\/+|\/+$/g, '');
