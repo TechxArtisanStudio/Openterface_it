@@ -12,7 +12,8 @@ export const siteConfig = {
     kvmgoPurchase: 'https://www.crowdsupply.com/techxartisan/openterface-kvm-go',
     keymodCrowdsupply: 'https://www.crowdsupply.com/techxartisan/openterface-keymod',
     shop: 'https://shop.techxartisan.com/',
-    appOverview: 'https://openterface.com/app/overview/',
+    docs: 'https://docs.openterface.com',
+    appOverview: 'https://docs.openterface.com/it/app/overview/',
     subscribe: 'https://subscribe.openterface.com/api/subscribe/',
     news: 'https://news.openterface.com',
   },
@@ -34,6 +35,7 @@ export const siteConfig = {
         'ro.openterface.com',
         'cn.openterface.com',
         'news.openterface.com',
+        'docs.openterface.com',
       ],
     },
     ahrefs: {

@@ -1,4 +1,4 @@
-import { legacyPath, newsPath } from '../config/site';
+import { docsPath, newsPath } from '../config/site';
 
 export interface NavItem {
   label: string;
@@ -22,10 +22,7 @@ export const mainNav: NavItem[] = [
   },
   { label: 'Video', href: '/videos/' },
   { label: 'Casi d\'Uso', href: '/use-cases/' },
-  { label: 'FAQ', href: legacyPath('/faq/'), external: true },
-  { label: 'App', href: legacyPath('/app/overview/'), external: true },
-  { label: 'Tutorial', href: legacyPath('/tutorial/'), external: true },
-  { label: 'Supporto', href: legacyPath('/support/'), external: true },
+  { label: 'Documentazione', href: docsPath(), external: true },
   { label: 'Notizie', href: newsPath(), external: true },
   { label: 'Informazioni', href: '/about/' },
 ];
