@@ -9,20 +9,29 @@ export interface NavItem {
 
 export const mainNav: NavItem[] = [
   {
-    label: 'Prodotti',
-    href: '#',
+    label: 'Products',
+    href: '/products/',
     children: [
-      { label: 'Serie KeyMod', href: '/products/keymod/' },
-      { label: 'Serie KVM-GO', href: '/products/kvm-go/' },
-      { label: 'Mini-KVM', href: '/products/minikvm/' },
-      { label: 'Estensione KVM uConsole', href: '/products/uconsole-kvm-extension/' },
-      { label: 'Accessori', href: '/products/accessories/' },
+      { label: 'All Products', href: '/products/' },
+      { label: 'KeyMod Series', href: '/keymod/' },
+      { label: 'KVM-GO Series', href: '/kvmgo/' },
+      { label: 'Mini-KVM', href: '/minikvm/' },
+      { label: 'uConsole KVM Extension', href: '/kvmext/' },
+      { label: 'Accessories', href: '/accessories/' },
     ],
   },
-  { label: 'Video', href: '/videos/' },
-  { label: "Casi d'Uso", href: '/use-cases/' },
-  { label: 'Informazioni', href: '/about/' },
-  { label: 'Documentazione', href: docsPath(), external: true },
-  { label: 'Notizie', href: newsPath(), external: true },
-  { label: 'Negozio', href: siteConfig.links.shop, external: true },
+  {
+    label: 'Apps',
+    href: '/app/',
+    children: [
+      { label: 'All Apps', href: '/app/' },
+      { label: 'KVM Control', href: '/kvm/' },
+      { label: 'KeyCmd', href: '/keycmd/' },
+    ],
+  },
+  { label: 'Media', href: '/videos/' },
+  { label: 'About', href: '/about/' },
+  { label: 'Docs', href: docsPath(), external: true },
+  { label: 'News', href: newsPath(), external: true },
+  { label: 'Shop', href: siteConfig.links.shop, external: true },
 ];
