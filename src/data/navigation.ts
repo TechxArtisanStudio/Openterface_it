@@ -21,7 +21,7 @@ export const mainNav: NavItem[] = [
     ],
   },
   {
-    label: "App",
+    label: "Apps",
     href: '/app/',
     children: [
       { label: "Tutte le app", href: '/app/' },
